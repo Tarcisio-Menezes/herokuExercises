@@ -1,0 +1,24 @@
+{
+  "name": "exercisesheroku",
+  "version": "1.0.0",
+  "description": "Exercícios do dia 29.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Heroku",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Tarcísio Menezes",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
